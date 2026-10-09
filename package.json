@@ -1,0 +1,19 @@
+{
+  "name": "jb-solutions-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web de JB Solutions: agencia y consultora de Inteligencia Artificial (Next.js, exportación estática)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "preview": "npx --yes serve@latest out"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "dependencies": {
+    "next": "^16.4.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}

@@ -1,0 +1,17 @@
+# dependencias y compilados
+node_modules/
+.next/
+out/
+
+# entorno local
+.env
+.env*.local
+.vercel/
+
+# sistema / editor
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+.idea/
+.vscode/
